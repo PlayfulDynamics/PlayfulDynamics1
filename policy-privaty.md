@@ -1,51 +1,94 @@
-# Privacy Policy for Playful Dynamics Games
+#   Privacy Policy - Playful Dynamics
 
-**Effective Date:** [Ngày hiệu lực]
 
-## 1. Introduction
+##   1.  Introduction
 
-Playful Dynamics ("we," "us," or "our") is committed to protecting the privacy of our users. This Privacy Policy outlines how we collect, use, and share information when you use our mobile games ("Games").
+Welcome to Xóc Đĩa, developed by Playful Dynamics. We are committed to protecting your privacy and ensuring a safe and enjoyable gaming experience. This Privacy Policy outlines how we collect, use, and protect your information when you interact with our mobile game. This policy applies to users aged 18 and over.
 
-By using our Games, you agree to the terms of this Privacy Policy. If you do not agree with this policy, please do not use our Games.
-
-## 2. Information We Collect
+##   2.  Information We Collect
 
 We may collect the following types of information:
 
-* **Non-Personal Information:**
-    * Device information (e.g., device type, operating system)
-    * Game progress and usage data
-    * Anonymous analytics data
-* **Personal Information:**
-    * We do not intentionally collect any personally identifiable information (PII) such as your name, address, or email address unless explicitly provided by you (e.g., through customer support).
+* **Device Information:**
+    * Device model, operating system, and unique device identifiers (e.g., Android Advertising ID or IDFA).
+    * Information about your device's internet connection.
+* **Game Data:**
+    * Gameplay progress, scores, achievements, and interactions within our game.
+    * Information about in-app purchases.
+* **Analytics Data:**
+    * Data about how you use our game, including frequency of use and feature usage.
+    * Information about app crashes and errors.
+* **Advertising Data:**
+    * Information used for personalized advertising, including advertising IDs.
+* **Social Data (if applicable):**
+    * If you connect through social media platforms, we may collect basic profile information as permitted by your social media settings.
+* **Chat Data (if applicable):**
+    * If you use our chat feature, we may collect and store the messages you send and receive.
 
-## 3. How We Use Your Information
+##   3.  How We Use Your Information
 
-We use the collected information for the following purposes:
+We use your information for the following purposes:
 
-* To provide and improve our Games
-* To analyze user behavior and trends
-* To provide customer support
-* To serve contextual advertising.
+* **To Provide and Improve Our Game:**
+    * To deliver and maintain our game.
+    * To personalize your gaming experience.
+    * To analyze and improve game performance and features.
+* **To Display Advertising:**
+    * To show targeted advertisements.
+    * To measure the effectiveness of our advertising campaigns.
+* **To Communicate with You:**
+    * To respond to your support requests.
+    * To send you game updates and notifications.
+* **To Enable Social Features (if applicable):**
+    * To allow you to connect and interact with other players.
+* **To Ensure Safety and Security:**
+    * To prevent fraud and protect our users.
+    * To comply with legal obligations.
 
-## 4. Third-Party Services
+##   4.  Third-Party Services
 
-We may use third-party services, such as analytics providers and advertising networks, which may collect information about your use of our Games. These third parties have their own privacy policies, and we encourage you to review them.
+We may share your information with:
 
-## 5. Children's Privacy
+* **Third-Party Service Providers:**
+    * For analytics, advertising, and other services that help us operate our game. These providers may have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+* **Advertising Partners:**
+    * To deliver targeted advertisements.
+* **Social Media Platforms (if applicable):**
+    * If you choose to connect your social media account to our game.
+* **Legal Authorities:**
+    * When required by law or to protect our rights.
 
-Our Games are designed for a general audience and are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete it.
+##   5.  Simulated Gambling Disclaimer
 
-## 6. Data Security
+Please note that Xóc Đĩa is a simulated casino game. No real money gambling is involved, and there is no opportunity to win real money or prizes.
 
-We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+##   6.  Data Security
 
-## 7. Changes to This Privacy Policy
+We implement reasonable security measures to protect your information from unauthorized access, use, or disclosure. These measures include encryption, firewalls, and secure server facilities. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+##   7.  Children’s Privacy
 
-## 8. Contact Us
+Our game is intended for users aged 18 and over. We do not knowingly collect personal information from individuals under the age of 18. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us immediately, and we will take steps to delete such information.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+##   8.  Your Rights
 
-minhanhcodon1981@gmail.com
+You may have certain rights regarding your personal information, depending on your jurisdiction. These rights may include:
+
+* **Access and Correction:** You may have the right to request access to and correction of your personal information.
+* **Opt-Out of Targeted Advertising:** You can limit ad tracking through your device settings.
+* **Data Deletion:** You may have the right to request the deletion of your personal data, subject to certain exceptions.
+* **Withdraw Consent:** If we are processing your personal information based on your consent, you may have the right to withdraw your consent at any time.
+
+To exercise these rights, please contact us using the information provided in the "Contact Us" section below.
+
+##   9.  Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy within the game or through other reasonable means. Your continued use of the game after the effective date of the revised Privacy Policy constitutes your acceptance of the changes.
+
+##   10. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+* Email: minhanhcodon1981@gmail.com
+
+Thank you for playing Xóc Đĩa!
